@@ -1,5 +1,19 @@
-# Welcome to GitHub Desktop!
+Transformer in Contrastive Learning for Anomaly Detection
+====
+source code of Transformer in Contrastive Learning for Anomaly Detection
+----
+Requirements
+----
+```python
+pyhton >= 3.7.3
+torch >= 1.9.0
+torchvision >= 0.10.0
+pytorch_pretrained_vit >=0.0.7
+```
+Training on CIFAR10
+-----
+To train the model on CIFAR10 dataset for a given normal class, run the following:
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+```python
+python main.py   
+```
