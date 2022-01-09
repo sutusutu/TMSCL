@@ -1,6 +1,6 @@
-Transformer in Contrastive Learning for Anomaly Detection
+Transformer-Based Contractive Learning Framework for Anomaly Detection
 ====
-source code of Transformer in Contrastive Learning for Anomaly Detection
+source code of Transformer-Based Contractive Learning Framework for Anomaly Detection
 ----
 Requirements
 ----
